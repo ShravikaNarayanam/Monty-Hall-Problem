@@ -1,1 +1,1 @@
-# Monty-Hall-problem---Python
+# Monty-Hall-problem: solution implemented using Python
